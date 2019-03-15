@@ -1,0 +1,10 @@
+URL = "http://localhost/login.do"
+USERNAME = "admin"
+PASSWORD = "manager"
+FIRST_NAME = "rohn"
+LAST_NAME = "K"
+EMAIL = "test@test.com"
+UNAME = "rohn71111"
+PASS = "manager"
+REPASS = "manager"
+
